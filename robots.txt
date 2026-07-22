@@ -1,0 +1,5 @@
+# PadhKhel — replace the domain below with your real domain before publishing.
+User-agent: *
+Allow: /
+
+Sitemap: https://anoop14613742.github.io/padhkhel-site/sitemap.xml
